@@ -106,7 +106,7 @@ me.say_hi()
 ## :trophy: GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaquHyup&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=HaquHyup&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 ---
